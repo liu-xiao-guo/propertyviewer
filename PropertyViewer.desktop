@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Prop Viewer
+Exec=qmlscene $@ Main.qml
+Icon=PropertyViewer.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+

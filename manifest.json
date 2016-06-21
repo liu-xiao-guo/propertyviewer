@@ -1,0 +1,15 @@
+{
+    "name": "propertyviewer.xiaoguo",
+    "description": "description of PropertyViewer",
+    "architecture": "all",
+    "title": "PropertyViewer",
+    "hooks": {
+        "PropertyViewer": {
+            "apparmor": "PropertyViewer.apparmor",
+            "desktop": "PropertyViewer.desktop"
+        }
+    },
+    "version": "0.33",
+    "maintainer": "Xiaoguo <liu_xiao_guo@yahoo.com>",
+    "framework": "ubuntu-sdk-15.04"
+}
